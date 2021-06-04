@@ -12,6 +12,17 @@ nav {
     background-color: #2da2ac;
 }
 
+/* Estilo de las Fuentes para los titulos */
+
+#aboutme h2,
+#destacados h2,
+#contacto h2 {
+    font-family: 'Oswald';
+    font-weight: 400;
+    font-size: 30px;
+    
+}
+
 /* Estilos de las tarjetas */
 .card-body {
     background-color: #2da2ac;
