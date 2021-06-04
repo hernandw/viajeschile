@@ -7,12 +7,18 @@
 body {
     background-color: black;
 }
-
-.navbar {
+/* Barra de Navegación */
+nav {
     background-color: #2da2ac;
 }
 
-/* Sección Quienes Somos */
+/* Estilos de las tarjetas */
+.card-body {
+    background-color: #2da2ac;
+    color: white;
+}
+
+/* Estilo de las Lineas debajo de cada titulo */
 #aboutme hr,
 #destacados hr,
 #contacto hr {
@@ -20,12 +26,10 @@ body {
  height: 1px;
 }
 
+/* Estilo de los favicon de fontawesome */
 #aboutme i {
 background-color: #2da2ac;
 }
-
-/* Sección Destacados */
-
 
 /* Seccion footer */
 #footer {
