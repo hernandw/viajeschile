@@ -4,11 +4,18 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: black;
+}
 
+.navbar {
+    background-color: #2da2ac;
+}
 
 /* Sección Quienes Somos */
 #aboutme hr,
-#destacados hr {
+#destacados hr,
+#contacto hr {
  background-color: #2da2ac;
  height: 1px;
 }
@@ -18,4 +25,10 @@ background-color: #2da2ac;
 }
 
 /* Sección Destacados */
+
+
+/* Seccion footer */
+#footer {
+    background-color: #2da2ac;
+}
 
