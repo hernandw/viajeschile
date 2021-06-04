@@ -16,11 +16,10 @@ $("li > a").click(function(event){
 });
 
 /* Tool tips */
-$(function () {
+
     $('[data-toggle="tooltip"]').tooltip()
-  })
+ 
 
   /* Popover */
-  $(function () {
+  
     $('[data-toggle="popover"]').popover()
-  })
