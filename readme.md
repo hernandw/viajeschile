@@ -23,3 +23,4 @@ Parte 3:
 Parte 4:
 - Se inicializó en Git
 - Se subió a github
+- Se creó la https://hernandw.github.io/viajeschile/
